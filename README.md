@@ -53,3 +53,27 @@ If you use this dataset in your research, please cite:
 Kapse, R., & Harsoor, B. (2026). PyDefectData: An open-source Python project defect prediction dataset [Data set]. 
 GitHub. https://github.com/kapserahul74/PyDefectData
 ```
+## Contributing
+
+Contributions are welcome.
+
+You can contribute by:
+
+- Adding new Python projects
+- Improving data quality
+- Fixing issues
+- Enhancing documentation
+- Adding preprocessing or analysis scripts
+
+Please submit a Pull Request or open an Issue.
+
+## License
+
+This repository is released under the MIT License.
+
+## Contact
+
+kapserahul2016@gmail.com
+---
+
+**Keywords:** Software Defect Prediction, Python, Software Metrics, Machine Learning, Open Source, Static Analysis, Empirical Software Engineering.
